@@ -1,0 +1,13 @@
+Region	RelativeTo1913
+Bristol	94
+Cardiff	112
+English Agents	78
+English O	68
+English P	46
+English R	111
+Glasgow	66
+Liverpool	140
+London	428
+Manchester	190
+Newcastle-on-Tyne	118
+Scottish	24
