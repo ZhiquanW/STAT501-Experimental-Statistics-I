@@ -1,0 +1,11 @@
+Country	Increase
+Brazil	2.47
+India	1.75
+Mexico	0.84
+Germany	0.51
+France	0.38
+Phillipines	0.38
+Indonesia	0.37
+United Kingdom	0.22
+United States	0.65
+Turkey	0.09
